@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @otera256
 - 👀 I’m interested in mathematics
-- 🌱 I’m currently learning Python to make a game
+- 🌱 I’m currently learning JavaScript with p5.js to make a game
+
 - 
 
 <!---
